@@ -1,6 +1,6 @@
 ### Hey there💚
 
-My name is Victor, a creative UI and graphic designer, constantly exploring new horizons. UI design is my forte, complemented by a bit of UX. My fascination with AI technology, computers, and gaming fuels my enthusiasm for innovative designs.
+I'm Victor, a creative UI and graphic designer, constantly exploring new horizons. UI design is my forte, complemented by a bit of UX. My fascination with AI technology, computers, and gaming fuels my enthusiasm for innovative designs.
 
 - 🔭 I’m currently working on getting better with code.
 - 🌱 I’m currently learning everything.
