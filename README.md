@@ -4,5 +4,5 @@ I'm Victor, a creative UI and graphic designer, constantly exploring new horizon
 
 - 🔭 I’m currently working on making my resume & portfolio stronger.
 - ⚡ Fun fact: I speak 3 languges.
-- 📫 How to reach me: [...](https://victortonu.myportfolio.com/contact)https://victortonu.myportfolio.com/contact
+- 📫 How to reach me: [...](https://victortonu.myportfolio.com/contact)
 
