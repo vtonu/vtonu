@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
+My name is Victor, a creative UI and graphic designer, constantly exploring new horizons. UI design is my forte, complemented by a bit of UX. My fascination with AI technology, computers, and gaming fuels my enthusiasm for innovative designs.
+
 **vtonu/vtonu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,7 +11,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: [...](https://victortonu.myportfolio.com/contact)https://victortonu.myportfolio.com/contact
 - ⚡ Fun fact: ...
--->
+
