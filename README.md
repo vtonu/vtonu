@@ -1,4 +1,4 @@
-### Hey there 💚
+### Hey there💚
 
 I'm Victor, a creative UI & graphic designer constantly exploring new horizons. UI design is my forte, complemented by a bit of UX 👀. My fascination with AI technology, computers and gaming fuels my enthusiasm for innovative work.
 
