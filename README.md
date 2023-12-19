@@ -7,4 +7,4 @@ I'm Victor, a creative individual constantly exploring new horizons. Graphic Des
 - 📫 Reach me [here](https://victortonu.myportfolio.com/contact).
 
 ### Interests
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
