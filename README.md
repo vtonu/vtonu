@@ -4,3 +4,4 @@ I'm Victor, a creative individual constantly exploring new horizons. Graphic Des
 
 - 🔭 I’m currently working on my React [portfolio](https://shad-cn-ui.vercel.app/).
 - ⚡ Fun fact: I speak 3 languages.
+- 📫 Reach me [here](https://www.instagram.com/uiuxaidesign/).
